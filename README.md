@@ -64,22 +64,22 @@ It allows users to:
 
 
 ##  Challenges Faced During Development
-1>Exception Handling Complexity:
-One of the main challenges was implementing custom exception handling.
-To gracefully handle missing books, a BookNotFoundException was created.
-This improved error reporting and made the application more robust.
+1>Exception Handling Complexity:  <br>
+One of the main challenges was implementing custom exception handling.  <br>
+To gracefully handle missing books, a BookNotFoundException was created.  <br>
+This improved error reporting and made the application more robust.  <br>
 
 ## Data Validation Issues:
-Ensuring valid data entry was tricky.
-Implemented validation checks to prevent:
-Empty titles
-Missing author names
+Ensuring valid data entry was tricky.  <br>
+Implemented validation checks to prevent:  <br>
+Empty titles  <br>
+Missing author names  <br>
 Invalid availability status
-## Modular Code Structure:
+## Modular Code Structure:  <br>
 Dividing the code into packages improved readability and maintainability.
 
 ## Separate classes for:
-Book entity
-CRUD operations
-Exception handling
+Book entity  <br>
+CRUD operations  <br>
+Exception handling  <br>
 
